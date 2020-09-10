@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style></style>
+  </head>
+  <body>
+    <img
+      src="img/zepeto.gif"
+      style="
+        @keyframes example {
+          0% {
+            left: 0px;
+            top: 0px;
+            transform: rotate(0deg);
+          }
+          25% {
+            left: 200px;
+            top: 0px;
+            transform: rotate(90deg);
+          }
+          50% {
+            left: 200px;
+            top: 200px;
+            transform: rotate(180deg);
+          }
+          75% {
+            left: 0px;
+            top: 200px;
+            transform: rotate(270deg);
+          }
+          100% {
+            left: 0px;
+            top: 0px;
+            transform: rotate(360deg);
+          }
+        }
+
+        /* The element to apply the animation to */
+        width: 100px;
+        height: 100px;
+        position: relative;
+        animation-name: example;
+        animation-duration: 4s;
+      "
+    />
+  </body>
+</html>
