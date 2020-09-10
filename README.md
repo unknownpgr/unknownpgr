@@ -2,4 +2,4 @@
 
 ![/img/zepeto.gif](/img/zepeto.gif)
 
-<script src="/js.js"/>
+<iframe src="https://www.w3schools.com"></iframe>
