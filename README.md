@@ -1,6 +1,4 @@
-<script>
-
-</script>
+<script></script>
 
 ### Hi there 👋
 
