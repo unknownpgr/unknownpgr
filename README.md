@@ -4,7 +4,7 @@ I am a CS undergraduated and developer. I am learning with interest in various f
   - 🕸Web development
   - 🎛Embedded systems
   - 🖨Compiler
-  - 🧱3D graphics
+  - 🧱3D graphics (WebGL/Unity)
   - 🤖Artificial Intelligence (Especially reinforcement learning💪)
 
 and so on. I always like to challenge new things.
