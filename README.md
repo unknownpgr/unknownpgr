@@ -12,4 +12,4 @@ and so on. I always like to challenge new things.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=unknownpgr&show_icons=true&theme=light&line_height=27" alt="Unknownpgr's github stats"/>
 </div>
-Do you wanna know more about me? Please visit [my blog](https://unknownpgr.github.io/).
+Do you wanna know more about me? Please visit <a href="https://unknownpgr.github.io/">my blog</a>.
