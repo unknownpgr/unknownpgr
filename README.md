@@ -1,10 +1,10 @@
 <h2 align="center">Hi there! It's <strong>Unknownpgr(Unknown Programmer)</strong>. 👨‍💻</h2>
 I am a CS undergraduated and developer. I am learning with interest in various fields, such as
 
-  - 🕸Web development (`React`, `Bootstrap`, `SCSS`)
+  - 🕸Web development (`Docker`, `K8S`, `React`)
   - 🎛Embedded systems (`ARM`-`STM32F`)
   - 🖨Compiler (`ANTLR4`)
-  - 🧱3D graphics (`WebGL`/`Unity`)
+  - 🧱3D graphics (`WebGL`, `Unity`)
   - 🤖Artificial Intelligence (Pixel Segmentation, Reinforcement learning💪)
 
 and so on. I always like to challenge new things.
