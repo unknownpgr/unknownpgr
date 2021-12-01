@@ -2,10 +2,10 @@
 I am a CS undergraduated and developer. I am learning with interest in various fields, such as
 
   - 🕸Web development (`Docker`, `K8S`, `React`)
-  - 🎛Embedded systems (`ARM`-`STM32F`)
+  - 🎛Embedded systems (`ARM`-`STM32Fxx`)
   - 🖨Compiler (`ANTLR4`)
   - 🧱3D graphics (`WebGL`, `Unity`)
-  - 🤖Artificial Intelligence (Pixel Segmentation, Reinforcement learning💪)
+  - 🤖Artificial Intelligence (Pixel Segmentation, Reinforcement learning💪 with PyTorch)
 
 and so on. I always like to challenge new things.
 <br>
