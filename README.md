@@ -1,13 +1,13 @@
 # Unknownpgr
 
-I am a CS undergraduated and developer. I am learning with interest in various fields, including
+I am a software engineer specializing in web and embedded systems development. With a strong foundation in both front-end and back-end technologies, as well as experience in low-level embedded programming, I enjoy tackling complex problems and delivering efficient, scalable solutions.
 
-  - Web development (`Node.js`, `Spring`, `K8S`, `React`)
-  - Embedded systems (`ARM`-`STM32Fxx`)
-  - 3D graphics (`WebGL`)
-  - Artificial Intelligence (`PyTorch`, `Reinforcement Learning`, `Diffusion`)
+### Key Skills:
+- Web development (Node.js, Spring, K8S, React)
+- Embedded systems (ARM-STM32Fxx)
+- 3D graphics (WebGL)
+- Artificial Intelligence (PyTorch, Reinforcement Learning, Diffusion)
 
-and so on. I always like to challenge new things.
-
-
-Would you like to know more about me? Please visit <a href="https://unknownpgr.com/"><strong>my blog</strong></a>.
+### Contact:
+- For inquiries, please reach out via [email](unknownpgr@gmail.com).
+- If you are interested in learning more about my projects, please visit <a href="https://unknownpgr.com/">my blog</a>.
